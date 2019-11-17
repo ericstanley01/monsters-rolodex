@@ -1,0 +1,25 @@
+.search {
+  -webkit-appearance: none;
+  font-size: 18px;
+  border: none;
+  border-bottom: 1px solid white;
+  outline: none;
+  padding: 10px;
+  width: 180px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  background: transparent;
+  color: white;
+}
+
+::-webkit-input-placeholder { /* Edge */
+  color: gray;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: gray;
+}
+
+::placeholder {
+  color: gray;
+}
