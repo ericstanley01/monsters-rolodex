@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Demo
 
-http://simple-react-app.stanleyeric.com/
+https://monsters-rolodex-stanleyeric.netlify.app/
