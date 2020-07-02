@@ -70,5 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Demo
 
 https://monsters-rolodex-stanleyeric.netlify.app/ <br />
-https://monsters-rolodex-stanleyeric.onrender.com/
-
+https://monsters-rolodex-stanleyeric.onrender.com/ <br />
+https://monsters-rolodex-stanleyeric.vercel.app/
